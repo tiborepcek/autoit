@@ -14,4 +14,5 @@ Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. priklad
 
 1. Nainštalujte si [AutoIt 3](https://www.autoitscript.com/site/autoit/downloads/) - iba klikáte na tlačidlo "Ďalej".
 2. V ponuke Štart nájdite *AutoIt3* a tam spustite *SciTE Script Editor*. Všetko je anglicky, ale to nevadí, pretože klikať budeme minimálne a prevažne budeme používať klávesové skratky ako *Ctrl + S* (uložiť súbor) alebo *F5* (spustiť skript) či *F7* (kompilovať skript).
-3. A teraz môžete začať sledovať jednotlivé skripty, ktoré nájdete vyššie a všetky vždy majú koncovku au3. V nich nájdete všetko potrebné na pochopenie príkladov.
+3. Určite si najskôr v Scite nastavte v menu *Options* položku *Wrap* - bude sa vám potom zalamovať text tak, aby ste nemuseli skrolovať vodorovne.
+4. A teraz môžete začať sledovať jednotlivé skripty, ktoré nájdete vyššie a všetky vždy majú koncovku au3. V nich nájdete všetko potrebné na pochopenie príkladov.
