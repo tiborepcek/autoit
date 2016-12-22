@@ -1,6 +1,6 @@
 # AutoIt 3
 
-[AutoIt 3](https://www.autoitscript.com/) je jednoduchý skriptovací jazyk pre Windows od verzie XP až po aktuálnu verziu. Jeho sila spočíva v
+[AutoIt 3](https://www.autoitscript.com/) je zdarma dostupný jednoduchý skriptovací jazyk pre Windows od verzie XP až po aktuálnu verziu. Jeho sila spočíva v
 
 - malej veľkosti ([plná inštalácia](https://www.autoitscript.com/site/autoit/downloads/) má iba okolo 12 MB)
 - možnosti skompilovať skript na exe súbor, ktorý spustíte aj bez nainštalovaného AutoItu
