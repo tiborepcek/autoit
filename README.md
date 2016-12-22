@@ -10,5 +10,8 @@
 
 Kurz skriptovacieho jazyka AutoIt 3 pre začiatočníkov má za úlohu na praktických príkladoch priblížiť tento jazyk aj úplným začiatočníkom. Predpokladám, že máte zvládnutú základnú prácu s počítačom a operačným systémom, čiže minimálne viete, čo je to textový súbor (koncovka txt, tu au3) a ako ho upravovať. Ostatné si vysvetlíme.
 
-Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. priklad.au3) - to sú súbory so zdrojovým kódom, v ktorých bude zapísané a komentované všetko potrebné na pochopenie praktických príkladov. Budem sa držať oficiálneho návodu, pričom všetko čo najviac zjednoduším a preložím do slovenčiny. Nech sa páči, začíname:
+Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. priklad.au3) - to sú súbory so zdrojovým kódom (skripty), v ktorých bude zapísané a komentované všetko potrebné na pochopenie praktických príkladov. Budem sa držať oficiálneho návodu, pričom všetko čo najviac zjednoduším a preložím do slovenčiny. Nech sa páči, začíname:
 
+1. Nainštalujte si [AutoIt 3](https://www.autoitscript.com/site/autoit/downloads/) - iba klikáte na tlačidlo "Ďalej".
+2. V ponuke Štart nájdite *AutoIt3* a tam spustite *SciTE Script Editor*. Všetko je anglicky, ale to nevadí, pretože klikať budeme minimálne a prevažne budeme používať klávesové skratky ako *Ctrl + S* (uložiť súbor) alebo *F5* (spustiť skript) či *F7* (kompilovať skript).
+3. A teraz môžete začať sledovať jednotlivé skripty, ktoré nájdete vyššie a všetky vždy majú koncovku au3. V nich nájdete všetko potrebné na pochopenie príkladov.
