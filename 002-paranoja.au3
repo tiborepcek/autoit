@@ -1,0 +1,3 @@
+; Trochu paranoje nikdy neuškodí. V našom prípade to bude zvyk pravidelne stláčať klávesovú skratku Ctrl + S. Po stlačení tejto kombinácie kláves sa súbor uloží, takže v prípade problémov neprídete o novo napísané riadky. Napísanie aj jedného riadku poriadne fungujúceho kódu môže trvať hodiny, čiže vypestovanie ukladacej paranoje sa rozhodne oplatí. Napríklad v nasledujúcom riadku som okno vylepšil tak, že sa namiesto textu "Ahoj svet!" zobrazí obsah schránky systému Windows. To je to isté, ako keď vo Worde stlačíte Ctrl + V a predtým ste označili text a stlačili Ctrl + C.
+
+MsgBox(0, "Paranoja", ClipGet())
