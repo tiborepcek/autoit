@@ -8,7 +8,7 @@
 - [polopatistickej pomoci](https://www.autoitscript.com/autoit3/docs/) (online aj offline) s príkladmi použitia jednotlivých príkazov
 - plus mnoho ďalších dôvodov, prečo používať tento jazyk...
 
-Kurz skriptovacieho jazyka AutoIt 3 pre začiatočníkov má za úlohu na praktických príkladoch priblížiť tento jazyk aj úplným začiatočníkom. Predpokladám, že máte zvládnutú základnú prácu s počítačom a operačným systémom, čiže minimálne viete, čo je to textový súbor (koncovka txt, tu au3) a ako ho upravovať. Ostatné si vysvetlíme.
+Kurz skriptovacieho jazyka AutoIt 3 pre začiatočníkov má za úlohu na praktických príkladoch priblížiť tento jazyk aj úplným začiatočníkom. Predpokladám, že máte zvládnutú základnú prácu s počítačom a operačným systémom, čiže minimálne viete, čo je to textový súbor (koncovka txt, tu au3) a ako ho upravovať. Potrebné je tiež chápať, čo je to algoritmus a ako ho využívame v bežnom živote mimo informatiky - na to je dobrá [hra GalaxyCodr](http://www.galaxycodr.com/game/). Ostatné si vysvetlíme.
 
 Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. 001-zaciname.au3) - to sú súbory so zdrojovým kódom (skripty), v ktorých bude zapísané a komentované všetko potrebné na pochopenie praktických príkladov. Budem sa držať oficiálneho návodu, pričom všetko čo najviac zjednoduším a preložím do slovenčiny. Nech sa páči, začíname:
 
