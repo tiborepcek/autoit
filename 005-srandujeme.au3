@@ -2,5 +2,5 @@
 
 While 1
   ClipPut("haha")
-  Sleep(100)
+  Sleep(1000)
 WEnd
