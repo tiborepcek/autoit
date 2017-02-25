@@ -4,7 +4,7 @@ Sem si vlastne píšeme odkazy pre seba a pre ostatných. Každý komentár by m
 aj po dlhšom období. Napríklad: Nasledujúci riadok zobrazí jednoduché okno s nadpisom "Začíname", s textom "Ahoj svet!"
 a s tlačidlom "OK" (tá nula na začiatku). Po kliknutí na tlačidlo "OK" alebo po stlačení klávesy ESC sa okno zavrie
 a celý skript sa ukončí. Aby všetko fungovalo, najskôr treba skript uložiť s koncovkou au3 napr. pod názvom "zaciname.au3".
-Po stlačením klávesy F5 sa okno zobrazí. Komentár ukončíme "#ce" - command end.
+Po stlačením klávesy F5 sa okno zobrazí. Komentár ukončíme "#ce" - comments end.
 #ce
 
 MsgBox(0, "Začíname", "Ahoj svet!")
