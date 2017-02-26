@@ -5,6 +5,7 @@
 - malej veľkosti ([plná inštalácia](https://www.autoitscript.com/site/autoit/downloads/) má iba okolo 12 MB)
 - možnosti skompilovať skript na exe súbor, ktorý spustíte aj bez nainštalovaného AutoItu
 - jednoduchom zápise, pomocou ktorého rýchlo a ľahko vytvoríte [aj zložitejšie programy](https://github.com/tiborepcek/inputblocker)
+- v efektívnom využití v spojitosti s inými programami ako napríklad curl a 7za ([auto_dl_unzip.au3](https://gist.github.com/tiborepcek/27057a9f0d10c4577525a697b95cb71a))
 - [polopatistickej pomoci](https://www.autoitscript.com/autoit3/docs/) (online aj offline) s príkladmi použitia jednotlivých príkazov
 - plus mnoho ďalších dôvodov, prečo používať tento jazyk...
 
