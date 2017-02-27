@@ -6,3 +6,5 @@ If $text = "" Then
 Else
   MsgBox(0, "Ukážka", "Zadal si toto: " & $text)
 EndIf
+
+; Viac info o podmienke If... na adrese https://www.autoitscript.com/autoit3/docs/keywords/IfElseEndIf.htm
