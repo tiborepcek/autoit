@@ -4,3 +4,5 @@ While 1
   ClipPut("haha")
   Sleep(1000)
 WEnd
+
+; Viac info o pravidelnom opakovaní (cyklus) While... na adrese https://www.autoitscript.com/autoit3/docs/keywords/While.htm
