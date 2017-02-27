@@ -8,3 +8,5 @@ text a stlačili Ctrl + C.
 #ce
 
 MsgBox(0, "Paranoja", ClipGet())
+
+; Viac info o ClipGet na adrese https://www.autoitscript.com/autoit3/docs/functions/ClipGet.htm
