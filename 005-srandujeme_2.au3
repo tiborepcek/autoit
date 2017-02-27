@@ -5,3 +5,5 @@ While 1
    WinClose("[CLASS:Notepad]")
    Sleep(500)
 WEnd
+
+; Viac o manažmente okien na adrese https://www.autoitscript.com/autoit3/docs/functions/Window%20Management.htm
