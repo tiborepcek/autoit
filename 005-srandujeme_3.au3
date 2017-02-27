@@ -4,3 +4,5 @@
 BlockInput(1)
 Sleep(5000)
 BlockInput(0)
+
+; Viac o blokovaní vstupu na adrese adrese https://www.autoitscript.com/autoit3/docs/functions/BlockInput.htm
