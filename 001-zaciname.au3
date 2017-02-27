@@ -8,3 +8,5 @@ Po stlačením klávesy F5 sa okno zobrazí. Komentár ukončíme "#ce" - commen
 #ce
 
 MsgBox(0, "Začíname", "Ahoj svet!")
+
+; Viac info o MsgBoxe na adrese https://www.autoitscript.com/autoit3/docs/functions/MsgBox.htm
