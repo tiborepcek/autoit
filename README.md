@@ -17,3 +17,5 @@ Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. 001-zac
 2. V ponuke Štart nájdite *AutoIt3* a tam spustite *SciTE Script Editor*. Všetko je anglicky, ale to nevadí, pretože klikať budeme minimálne a prevažne budeme používať klávesové skratky ako *Ctrl + S* (uložiť súbor) alebo *F1* (offline pomoc), *F5* (spustiť skript) či *F7* (kompilovať skript).
 3. Určite si najskôr v Scite nastavte v menu *Options* položku *Wrap* - bude sa vám potom zalamovať text tak, aby ste nemuseli posúvať obsah okna vodorovne.
 4. A teraz môžete začať sledovať jednotlivé skripty, ktoré nájdete vyššie a všetky vždy majú koncovku au3. V nich nájdete všetko potrebné na pochopenie príkladov.
+
+Základy skriptovania vo Windowse rozoberám [v repozitári bat](https://github.com/tiborepcek/bat).
