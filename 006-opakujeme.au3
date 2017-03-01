@@ -7,3 +7,4 @@ Func dnes()
 EndFunc
 
 ; Viac info o funkciách na adrese https://www.autoitscript.com/autoit3/docs/keywords/Func.htm
+; Úloha: Zmeňte funkciu tak, aby vypísala zajtrajší dátum. (Pomôžu vám User defined functions)
