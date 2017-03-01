@@ -7,3 +7,4 @@ While 1
 WEnd
 
 ; Viac o manažmente okien na adrese https://www.autoitscript.com/autoit3/docs/functions/Window%20Management.htm
+; Úloha: Vyberte si iný program, ktorého okno budete zatvárať. (Pomôže vám program AutoIt Window Info)
