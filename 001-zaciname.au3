@@ -10,3 +10,4 @@ Po stlačením klávesy F5 sa okno zobrazí. Komentár ukončíme "#ce" - commen
 MsgBox(0, "Začíname", "Ahoj svet!")
 
 ; Viac info o MsgBoxe na adrese https://www.autoitscript.com/autoit3/docs/functions/MsgBox.htm
+; Úloha: Zmeňte MsgBox tak, aby sa zobrazovali tlačidlá "Yes" a "No" a okno sa automaticky zavrelo 5 sekúnd po spustení.
