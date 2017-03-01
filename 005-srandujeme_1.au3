@@ -6,3 +6,4 @@ While 1
 WEnd
 
 ; Viac info o pravidelnom opakovaní (cyklus) While... na adrese https://www.autoitscript.com/autoit3/docs/keywords/While.htm
+; Úloha: Zmeň opakovanie (cyklus) while tak, aby sa opakoval každú sekundu, ale aby sa po 10 sekundách ukončil.
