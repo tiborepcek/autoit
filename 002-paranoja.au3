@@ -10,3 +10,4 @@ text a stlačili Ctrl + C.
 MsgBox(0, "Paranoja", ClipGet())
 
 ; Viac info o ClipGet na adrese https://www.autoitscript.com/autoit3/docs/functions/ClipGet.htm
+; Úloha: Zisti, akým príkazom do systémovej schránky vložíme text (Ctrl + V) a vlož text "skuska".
