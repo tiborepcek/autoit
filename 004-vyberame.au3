@@ -8,3 +8,5 @@ Else
 EndIf
 
 ; Viac info o podmienke If... na adrese https://www.autoitscript.com/autoit3/docs/keywords/IfElseEndIf.htm
+; Úloha: Pridajte podmienku, v ktorej určíte, že ak zadaný text bol slovo "text", vypíše sa MsgBox s textom
+;        "Neber ma tak doslovne. :)"
