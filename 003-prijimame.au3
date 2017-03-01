@@ -4,4 +4,4 @@ $text = InputBox("Ukážka", "Zadaj text:")
 MsgBox(0, "Ukážka", "Zadal si toto: " & $text)
 
 ; Viac info o InputBoxe na adrese https://www.autoitscript.com/autoit3/docs/functions/InputBox.htm
-; Úloha: Zmeň veľkosť a umiestnenie okna InputBoxu.
+; Úloha: Zmeňte veľkosť a umiestnenie okna InputBoxu.
