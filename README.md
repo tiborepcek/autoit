@@ -18,4 +18,4 @@ Kurzom vás prevediem pomocou textových súborov s koncovkou au3 (napr. 001-zac
 3. Určite si najskôr v Scite nastavte v menu *Options* položku *Wrap* - bude sa vám potom zalamovať text tak, aby ste nemuseli posúvať obsah okna vodorovne.
 4. A teraz môžete začať sledovať jednotlivé skripty, ktoré nájdete vyššie a všetky vždy majú koncovku au3. V nich nájdete všetko potrebné na pochopenie príkladov.
 
-Základy skriptovania vo Windowse rozoberám [v repozitári bat](https://github.com/tiborepcek/bat).
+Základy programovania v Pythone rozoberám [v repozitári python](https://github.com/tiborepcek/python).
